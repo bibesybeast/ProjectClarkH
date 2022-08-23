@@ -1,2 +1,2 @@
 # ProjectClarkH
-Real-life haunted place inspired first-person horror game
+My First Horror Anthology Project
